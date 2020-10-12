@@ -39,40 +39,26 @@
     </ul>
 </nav>
 </div>
-	<form action='https://forms.zohopublic.com/anitagoral19/form/ContactForm/formperma/I7sAn9oJ4Bjh3fEVeCgoAaHoc_7b1Wf6mASq6e_hI0Q/htmlRecords/submit' name='form' id='form' method='POST' accept-charset='UTF-8' enctype='multipart/form-data'>
-<h2>Contact Us</h2>
-<p></p>
-<!--Name-->
-<label>Full name
-<em>*</em>
-</label>
-<input type="text" maxlength="255" name="Name_First" fieldType=7 /><label>First</label>
-<input type="text" maxlength="255" name="Name_Last" fieldType=7 /><label>Last</label>
-<!--Email-->
-<label>Email 
-<em>*</em>
-</label>
-<input type="text" maxlength="255" name="Email" value="" fieldType=9 />
-<!--Phone-->
-<label>Phone
-<em>*</em>
-</label>
-<input type="text" compname="PhoneNumber" name="PhoneNumber_countrycode" phoneFormat="1" isCountryCodeEnabled=false maxlength="20" value="" fieldType=11 id="international_PhoneNumber_countrycode" />
-<label>Number</label>
-<!--Dropdown-->
-<label>Dropdown
-<em>*</em>
-</label>
-<select name="Dropdown"><option selected="true" value="-Select-">-Select-</option>
-<option value="Mobile">Mobile</option>
-<option value="Home">Home</option>
-<option value="Work">Work</option>
-</select>
-<!--Multi Line-->
-<label>Leave us a few words 
-</label>
-<textarea name="MultiLine" maxlength="65535"></textarea>
-<button type="submit"><em>Submit</em></button></form>
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

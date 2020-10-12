@@ -1,7 +1,29 @@
+<<<<<<< HEAD
 .navbar .navbar-default .navbar-brand {
 	background: #77A1D3;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	font-family: 'Satisfy', cursive, Helvetica;
 	padding-top: 50px;
+=======
+.navbar {
+	padding-top: 20px
+	background: #77A1D3;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.navbar .navbarbrand {
+	font-size: 75px;
+	font-family: 'Satisfy', cursive, Helvetica;
+	
+}
+
+body {
+	background-color: #e6e6ff;
+}
+
+.introduction {
+	padding-left: 30px;
+>>>>>>> d970c36f7c5387a58a1da93d9eddab4f7ad2a2da
 }
