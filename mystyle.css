@@ -14,3 +14,11 @@
 	font-family: 'Satisfy', cursive, Helvetica;
 	
 }
+
+background {
+	color: grey;
+}
+
+.introduction {
+	padding-left: 30px;
+}
