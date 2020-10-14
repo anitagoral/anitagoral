@@ -12,15 +12,7 @@ h1 {
 }
 
 body {
-	background: rgb(178, 201, 230);
-}
-
-a:link {
-	color: #E684AE;
-}
-
-a:visited {
-  color: #40a5a4;
+	background: #77A1D3;
 }
 
 
@@ -32,7 +24,6 @@ a:visited {
 	width: 100%;
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: 35px;
-	color: black;
 }
 
 .about {
@@ -43,5 +34,4 @@ a:visited {
 	width: 100%;
 	font-family: 'Sansita Swashed', cursive; Times, serif;
 	font-size: 25px;
-	color: black;
 }
