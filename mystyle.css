@@ -7,7 +7,7 @@
 }
 
 .navbar .navbar-bran {
-	font-family: 'Sansita Swashed', cursive;
+	font-family: 'Sansita Swashed', cursive !important;
 }
 .introduction {
 	text-align: center;     
