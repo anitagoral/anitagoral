@@ -19,7 +19,8 @@ h1 {
 	width: 100%;
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: 35px;
-	opacity: 0.5;
+	text-decoration-color: black;
+	opacity: 1;
 }
 
 body {
