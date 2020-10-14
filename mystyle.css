@@ -6,7 +6,13 @@
 	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-
+.introduction {
+	text-align: center;     
+	position: absolute;     
+	top: 50%;     
+	bottom: 50%;     
+	width: 100%;
+}
 
 body {
 	background-color: #e6e6ff;
