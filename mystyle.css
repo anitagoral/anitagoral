@@ -8,6 +8,7 @@
 
 h1 {
 	font-family: 'Sansita Swashed', cursive, Times, serif;
+	font-size: : 20px;
 }
 .introduction {
 	text-align: center;     
@@ -16,9 +17,9 @@ h1 {
 	bottom: 50%;     
 	width: 100%;
 	font-family: font-family: 'Grenze Gotisch', cursive, Times, serif;
-	font-size: 56px;
+	font-size: 35px;
 }
 
 body {
-	background-color: #e6e6ff;
+	background: #77A1D3;;
 }
