@@ -20,11 +20,11 @@ h1 {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: 35px;
 	text-decoration-color: black;
-	opacity: 0.2;
 }
 
 body {
 	background: #77A1D3;
+	opacity: 0.2;
 }
 
 a:link {
