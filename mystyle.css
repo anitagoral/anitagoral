@@ -2,6 +2,18 @@
 a:link {
 	color: black;
 }
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+  color: #77A1D3;
+}
+
+a:active {
+  color: black;
+}
 .navbar {
 	padding-top: 20px
 	background-color: transparent;
