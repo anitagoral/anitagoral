@@ -4,7 +4,7 @@
 	background: #77A1D3;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-	text-decoration-color: black;
+	color: black;
 }
 
 h1 {
@@ -19,7 +19,7 @@ h1 {
 	width: 100%;
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: 35px;
-	text-decoration-color: black;
+	color: black;
 }
 
 body {
@@ -27,19 +27,14 @@ body {
 }
 
 a:link {
-	color: #cc00cc;
+	color: #E684AE;
 }
 
 a:visited {
-  color: #79CBCA;
+  color: #40a5a4;
 }
 
 
 a:hover {
-  color: #79CBCA;
-}
-
-
-a:active {
-  color: #E684AE;
+  color: #a9235d;
 }
