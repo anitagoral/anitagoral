@@ -6,11 +6,7 @@
 	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.navbar .navbarbrand {
-	font-size: 75px;
-	font-family: 'Satisfy', cursive, Helvetica;
-	
-}
+
 
 body {
 	background-color: #e6e6ff;
