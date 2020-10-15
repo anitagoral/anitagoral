@@ -55,6 +55,12 @@ h1.navbartitle:hover {
 	font-size: 25px;
 }
 
+img {
+	width:325px;
+	height:455px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
 
 body {
 	background: #77A1D3;  /* fallback for old browsers */
