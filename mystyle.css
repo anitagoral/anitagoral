@@ -26,10 +26,10 @@ a:active {
 	color: black;
 }
 
-.navbartitle {
+h1.navbartitle {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
-	font-size-adjust: 30px:30px : 30px;
-	color: hotpink
+	font-size: 30px;
+	color: hotpink;
 }
 
 
