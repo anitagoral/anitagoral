@@ -1,27 +1,30 @@
 
 a:link {
-	color: black;
+	color: hotpink;
 }
 
 a:visited {
-	color: black;
+	color: hotpink;
 }
 
 a:hover {
-  color: blue;
+  color: black;
 }
 
 a:active {
-  color: black;
+  color: hotpink;
 }
 .navbar {
 	padding-top: 20px
 	background-color: transparent;
 	}
 
-.navbar-toggler {
-	outline-color: black;
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
 }
+.navbar-default .navbar-toggle {
+  border: 2px solid black;
+ }
 
 h1 {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
