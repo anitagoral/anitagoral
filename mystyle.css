@@ -28,7 +28,7 @@ a:active {
 
 .navbartitle {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
-	font-size: : 30px;
+	font-size-adjust: 30px:30px : 30px;
 	color: hotpink
 }
 
