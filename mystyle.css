@@ -16,15 +16,8 @@ a:active {
 }
 .navbar {
 	padding-top: 20px
-	background-color: transparent;
-	}
-
-.navbar-default .navbar-toggle .icon-bar {
-  background-color: black;
 }
-.navbar-default .navbar-toggle {
-  border: 2px solid black;
- }
+
 
 h1 {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
