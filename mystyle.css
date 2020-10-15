@@ -22,10 +22,18 @@ a:active {
 	color: hotpink;
 }
 
+.textcolornav:hover {
+	color: black;
+}
 
-h1 {
+.navbartitle {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: : 20px;
+	color: hotpink
+}
+
+.navbartitle:hover {
+	color: black;
 }
 
 .introduction {
