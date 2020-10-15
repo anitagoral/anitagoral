@@ -19,7 +19,7 @@ a:active {
 }
 
 .textcolornav {
-	color: #E684AE;
+	color:#941e51
 	font-weight: bold;
 }
 
@@ -29,9 +29,8 @@ a:active {
 
 h1.navbartitle {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
-	font-size: 30px;
-	color: #E684AE;
-	font-weight: bold;
+	font-size: 35px;
+	color: #941e51;
 }
 
 
@@ -41,7 +40,7 @@ h1.navbartitle {
 	bottom: 50%;     
 	width: 100%;
 	font-family: 'Sansita Swashed', cursive; Times, serif;
-	font-size: 35px;
+	font-size: 20px;
 }
 
 .about {
