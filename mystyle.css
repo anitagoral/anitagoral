@@ -1,10 +1,10 @@
 
 a:link {
-	color: #E684AE;
+	color: #941e51;
 }
 
 a:visited {
-	color: #E684AE;
+	color: #941e51;
 }
 
 a:hover {
@@ -12,7 +12,7 @@ a:hover {
 }
 
 a:active {
-  color: #E684AE;
+  color: #941e51;
 }
 .navbar {
 	padding-top: 20px
@@ -33,6 +33,9 @@ h1.navbartitle {
 	color: #941e51;
 }
 
+h1.navbartitle:hover {
+	color: black;
+}
 
 .introduction {
 	text-align: center;          
