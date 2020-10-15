@@ -1,10 +1,10 @@
 
 a:link {
-	color: hotpink;
+	color: #E684AE;
 }
 
 a:visited {
-	color: hotpink;
+	color: #E684AE;
 }
 
 a:hover {
@@ -12,14 +12,15 @@ a:hover {
 }
 
 a:active {
-  color: hotpink;
+  color: #E684AE;
 }
 .navbar {
 	padding-top: 20px
 }
 
 .textcolornav {
-	color: hotpink;
+	color: #E684AE;
+	font-weight: bold;
 }
 
 .textcolornav:hover {
@@ -29,7 +30,8 @@ a:active {
 h1.navbartitle {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: 30px;
-	color: hotpink;
+	color: #E684AE;
+	font-weight: bold;
 }
 
 
