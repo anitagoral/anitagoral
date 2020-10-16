@@ -38,32 +38,29 @@
   </div>
 <form name="contact" method="POST" data-netlify="true">
   <div class="container-fluid">
-  <div class="form-row">
-    <div class="form-group col-md-6">
-      <label>First Name: 
-        <input type="text" name="FirstName" />
-      </label>
+  <div class="FirstName">
+    <label>First Name: 
+      <input type="text" name="FirstName" />
+    </label>
     </div>
-    <div class="form-group col-md-6">
+    <div class="LastName">
       <label>Last Name: 
         <input type="text" name="LastName" />
       </label>
     </div>
   </div>
-  <div class="form-row">
-    <div class="form-group col-md-6">
-      <label>Email 
+  <div class="Email">
+    <label>Email 
         <input type="email" name="email" />
-      </label>
+    </label>
     </div>
-    <div class="form-group col-md-6">
+    <div class="phoneNumber">
       <label>Phone Number: 
-        <input type="Phone" name="phoneNumber" />
+        <input type="number" name="phoneNumber" />
       </label>
     </div>
   </div>
-  <div class="form-row">
-    <div class="form-group col-md-12">
+  <div class="Message">
   <label>Message: <textarea name="message"></textarea></label>
   <button type="submit" class="btn btn-primary">Submit</button>
 </div>
