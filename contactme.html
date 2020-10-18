@@ -37,33 +37,27 @@
     </nav>
   </div>
 <form name="contact" method="POST" data-netlify="true">
-  <div class="container-fluid">
-  <div class="FirstName">
-    <label>First Name: 
-      <input type="text" name="FirstName" />
-    </label>
+  <div class="form-row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="First name">
     </div>
-    <div class="LastName">
-      <label>Last Name: 
-        <input type="text" name="LastName" />
-      </label>
+    <div class="col">
+      <input type="text" class="form-control" placeholder="Last name">
     </div>
   </div>
-  <div class="Email">
-    <label>Email 
-        <input type="email" name="email" />
-    </label>
+    <div class="form-row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="Phone Number">
     </div>
-    <div class="phoneNumber">
-      <label>Phone Number: 
-        <input type="number" name="phoneNumber" />
-      </label>
+    <div class="col">
+      <input type="text" class="form-control" placeholder="Email Address">
     </div>
   </div>
-  <div class="Message">
-  <label>Message: <textarea name="message"></textarea></label>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</div>
+    <div class="form-row">
+    <div class="col">
+      <input type="textarea" class="form-control" placeholder="Leave a Message">
+    </div>
+    </div>
 </form>
 
 
