@@ -75,3 +75,12 @@ form {
 	background-color: #E684AE;
 	padding: 25px;
 }
+
+
+/*Skills*/
+
+h3.card-title {
+	font-family: 'Grenze Gotisch', cursive, Times, serif;
+	font-size: 40px;
+	color: #941e51;
+}
