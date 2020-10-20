@@ -48,9 +48,7 @@ h1.navbartitle:hover {
 
 .about {
 	text-align: center;          
-	top: 50%;     
-	bottom: 50%;     
-	width: 100%;
+	padding: 25px;
 	font-family: 'Sansita Swashed', cursive; Times, serif;
 	font-size: 25px;
 }
