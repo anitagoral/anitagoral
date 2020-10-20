@@ -71,9 +71,9 @@ body {
 
 /* contact me form Styles */
 
-.FirstName {
-	 width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
+form {
+	border: 2px #E684AE;
+	border-radius: 8px;
+	background-color: #E684AE;
+	padding: 25px;
 }
