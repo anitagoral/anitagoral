@@ -89,8 +89,23 @@ h3.card-title {
 
 .card {
 	background-color: transparent;
+	text-align: center;
 }
 
 h5.title {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
+}
+
+
+.card-body {
+	background-color: #E684AE;
+	text-align: center;          
+	padding: 25px;
+	font-family: 'Sansita Swashed', cursive; Times, serif;
+	font-size: 25px;
+}
+
+.btn:focus,.btn:active {
+   outline: none !important;
+   box-shadow: none;
 }
