@@ -83,4 +83,9 @@ h3.card-title {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: 40px;
 	color: #941e51;
-	background: transparent;
+}
+
+.card {
+	background-color: transparent;
+}
+
