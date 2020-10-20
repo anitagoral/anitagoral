@@ -80,6 +80,7 @@ form {
 /*Skills*/
 
 h3.card-title {
+	padding-top: 20px;
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: 40px;
 	color: #941e51;
@@ -87,5 +88,11 @@ h3.card-title {
 
 .card {
 	background-color: transparent;
+}
+
+h5.mb-0{
+	font-family: 'Grenze Gotisch', cursive, Times, serif;
+	font-size: 40px;
+	color: #941e51;
 }
 
