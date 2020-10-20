@@ -95,3 +95,7 @@ h5.title {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 }
 
+.btn .btn-link {
+	color: #941e51;
+	font-size: 25px;
+	}
