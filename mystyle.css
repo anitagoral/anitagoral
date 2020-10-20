@@ -96,3 +96,20 @@ h5.title {
 	color: #941e51
 }
 
+
+h5.title:link {
+	color: #941e51;
+}
+
+h5.title:visited {
+	color: #941e51;
+}
+
+h5.title:hover {
+  color: black;
+}
+
+h5.title:active {
+  color: #941e51;
+}
+
