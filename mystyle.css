@@ -45,6 +45,12 @@ body {
 	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+img {
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
+
 /* home page */
 
 .introduction {
@@ -55,6 +61,7 @@ body {
 	font-family: 'Sansita Swashed', cursive; Times, serif;
 	font-size: 20px;
 }
+
 
 
 /*about me page */
