@@ -45,11 +45,6 @@ body {
 	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-img {
-	width: 200px;
-	height: 200px;
-	margin: auto;
-}
 
 /* home page */
 
@@ -62,7 +57,11 @@ img {
 	font-size: 20px;
 }
 
-
+img.homepageimg {
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
 
 /*about me page */
 
@@ -71,6 +70,13 @@ img {
 	padding: 25px;
 	font-family: 'Sansita Swashed', cursive; Times, serif;
 	font-size: 25px;
+}
+
+img.thisleimg {
+	width: 300px;
+	height: 300px;
+	margin: auto;
+	padding-right: 20px
 }
 
 
