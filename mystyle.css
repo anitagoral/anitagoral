@@ -1,3 +1,4 @@
+/* All Page styles*/
 
 a:link {
 	color: #941e51;
@@ -37,6 +38,15 @@ h1.navbartitle:hover {
 	color: black;
 }
 
+
+body {
+	background: #77A1D3;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* home page */
+
 .introduction {
 	text-align: center;          
 	top: 50%;     
@@ -46,24 +56,20 @@ h1.navbartitle:hover {
 	font-size: 20px;
 }
 
+
+img {
+	width: 50%;
+	margin: auto;
+}
+
+
+/*about me page */
+
 .about {
 	text-align: center;          
 	padding: 25px;
 	font-family: 'Sansita Swashed', cursive; Times, serif;
 	font-size: 25px;
-}
-
-img {
-	width:325px;
-	height:455px;
-	padding-top: 20px;
-	padding-bottom: 50px;
-}
-
-body {
-	background: #77A1D3;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 
@@ -109,3 +115,4 @@ h5.title {
    outline: none !important;
    box-shadow: none;
 }
+
