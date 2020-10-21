@@ -72,6 +72,10 @@ img {
 	font-size: 25px;
 }
 
+.carousel-inner .item a img {
+	margin: auto;
+}
+
 
 /* contact me form Styles */
 
