@@ -72,9 +72,21 @@ p.about {
 	font-size: 25px;
 }
 
+img.aboutimg1 {
+	width: 100%;
+	margin: auto;
+	}
+
+img.aboutimg2 {
+	width: 100%;
+	margin: auto;
+	}
 
 @media (max-width: 629px) {
 	img.aboutimg1 {
+		display: none;
+	}
+	img.aboutimg2 {
 		display: none;
 	}
 
