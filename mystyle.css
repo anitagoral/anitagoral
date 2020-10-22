@@ -84,7 +84,7 @@ img.aboutimg2 {
 
 @media (max-width: 629px) {
 	img.aboutimg1 {
-		tranform: rotate(90deg);
+		transform: rotate(90deg);
 	}
 	
 
