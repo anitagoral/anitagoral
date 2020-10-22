@@ -158,6 +158,11 @@ h5.title {
 	background-color: #E684AE;
 	text-align: center;
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
-	font-size: 20px;
-	color: #77A1D3;
+	font-size: 30px;
+	color: #5286c7;
+}
+
+.list-group-item:active{
+	border-color: none !important;
+
 }
