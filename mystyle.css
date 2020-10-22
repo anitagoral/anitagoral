@@ -79,14 +79,13 @@ img.aboutimg1 {
 
 img.aboutimg2 {
 	width: 100%;
-	margin: auto;
+	margin: auto;4
 	}
 
 @media (max-width: 629px) {
 	img.aboutimg1 {
-		transform: rotate(90deg);
+		display: none;
 	}
-	
 
 
 /* contact me form Styles */
