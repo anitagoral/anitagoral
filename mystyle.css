@@ -162,7 +162,7 @@ h5.title {
 	color: #5286c7;
 }
 
-.list-group-item:active{
+.list-group-item.active {
 	border-color: none !important;
 
 }
