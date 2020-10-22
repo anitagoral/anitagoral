@@ -57,6 +57,11 @@ body {
 	font-size: 20px;
 }
 
+img.homepageimg{
+	width: 50%;
+	margin: auto;
+}
+
 
 /*about me page */
 
@@ -70,13 +75,11 @@ p.about {
 img.aboutimg1 {
 	width: 100%;
 	margin: auto;
-	float: left;
 	}
 
 img.aboutimg2 {
 	width: 100%;
 	margin: auto;
-	float: right;
 	}
 
 @media (max-width: 629px) {
