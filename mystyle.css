@@ -82,6 +82,13 @@ img.aboutimg2 {
 	margin: auto;
 	}
 
+@media (max-width: 629px) {
+	img.aboutimg1 {
+		tranform: rotate(90deg);
+	}
+	
+
+
 /* contact me form Styles */
 
 form {
