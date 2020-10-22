@@ -54,12 +54,15 @@ body {
 	bottom: 50%;     
 	width: 100%;
 	font-family: 'Sansita Swashed', cursive; Times, serif;
-	font-size: 50px;
+	font-size: 37px;
+	padding-top: 60px;
 }
 
 img.homepageimg{
 	width: 100%;
 	margin: auto;
+	border-radius: 50%;
+	padding-top: 50px;
 }
 
 
@@ -75,11 +78,7 @@ p.about {
 img.aboutimg1 {
 	width: 100%;
 	margin: auto;
-	}
-
-img.aboutimg2 {
-	width: 100%;
-	margin: auto;4
+	padding-top: 50px;
 	}
 
 @media (max-width: 629px) {
