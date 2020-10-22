@@ -152,3 +152,9 @@ h5.title {
    box-shadow: none;
 }
 
+/*Work History*/
+
+.list-group {
+	background-color: #E684AE;
+	color: #941e51;
+}
