@@ -154,7 +154,7 @@ h5.title {
 
 /*Work History*/
 
-.history-set {
+.history-set .list-group .list-group-item {
 	background-color: #E684AE;
 	text-align: center;
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
