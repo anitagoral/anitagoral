@@ -54,14 +54,14 @@ body {
 	bottom: 50%;     
 	width: 100%;
 	font-family: 'Sansita Swashed', cursive; Times, serif;
-	font-size: 37px;
+	font-size: 25px;
 	padding-top: 60px;
 }
 
 img.homepageimg{
-	width: 90%;
-	max-height: 390px;
-	max-width: 280px;
+	width: 100%;
+	max-height: 425px;
+	max-width: 315px;
 	margin-top: 50px;
 	margin-bottom: 50px;
 	border-radius: 20px;
