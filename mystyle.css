@@ -67,9 +67,9 @@ p.about {
 	font-size: 25px;
 }
 
-img.aboutimg {
-	width: 100%;
-	margin: auto;
+@media (max-width: 629px) {
+	img.aboutimg {
+	display: none;
 	}
 
 
