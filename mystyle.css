@@ -156,15 +156,14 @@ h5.title {
 
 .history-set .list-group .list-group-item {
 	background-color: #E684AE;
+	opacity: .7;
 	text-align: center;
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: 30px;
-	color: #E684AE;
+	color: #5286c7;
 }
 
-.list-group-item.active {
-    z-index: 2;
-    color: #fff;
-    background-color: #007bff;
-    /* border-color: #007bff; */
+.list-group-item.active{
+	border-color: transparent !important;
+
 }
