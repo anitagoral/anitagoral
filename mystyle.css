@@ -82,15 +82,6 @@ img.aboutimg2 {
 	margin: auto;
 	}
 
-@media (max-width: 629px) {
-	img.aboutimg1 {
-		display: none;
-	}
-	img.aboutimg2 {
-		display: none;
-	}
-
-
 /* contact me form Styles */
 
 form {
