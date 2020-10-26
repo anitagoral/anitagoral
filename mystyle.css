@@ -160,6 +160,11 @@ h5.title {
 
 /*Work History*/
 
+.row {
+	margin-right: auto !important;
+	margin-left: auto !important;
+}
+
 .history-set .list-group .list-group-item {
 	background-color: #E684AE;
 	text-align: center;
