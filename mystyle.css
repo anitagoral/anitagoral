@@ -60,6 +60,9 @@ body {
 
 img.homepageimg{
 	width: 100%;
+	max-height: 425px;
+	max-width: 315px;
+	margin-top: 50px;
 	margin-bottom: 50px;
 	border-radius: 20px;
 	opacity: .85;
@@ -82,16 +85,16 @@ p.about {
 }
 
 div.polaroid {
-  width: 75%;
+  width: 80%;
   background-color: white;
-  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.5), 0 8px 30px 0 rgba(0, 0, 0, 0.50);
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.5), 0 8px 30px 0 rgba(0, 0, 0, 0.5);
   margin-bottom: 25px;
   margin-top: 50px;
 }
 
 div.imgcontainer {
   text-align: center;
-  padding: 10px 60p6101x;
+  padding: 10px 20px;
 }
 
 img.aboutimg1 {
