@@ -96,7 +96,7 @@ img.aboutimg1 {
 	margin: auto;
 	}
 
-@media (max-width: 629px) {
+@media (max-width: 575px) {
 	img.aboutimg1 {
 		display: none;
 	}
