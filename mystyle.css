@@ -160,6 +160,7 @@ h5.title {
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
 	font-size: 30px;
 	color: #386dad;
+	border: none !important;
 }
 
 .list-group-item.active{
