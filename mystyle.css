@@ -176,3 +176,10 @@ h5.title {
 .tab-content {
 	font-family: 'Sansita Swashed', cursive, Times, serif;
 }
+
+@media (max-width: 575px) {
+	.history-set .list-group .list-group-item {
+		font-family: 'Grenze Gotisch', cursive, Times, serif;
+		color: #386dad;
+		border: none !important;
+}
