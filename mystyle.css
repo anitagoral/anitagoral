@@ -406,7 +406,11 @@ form {
 }
 
 .form-control {
-    opacity: .5;
+    background: transparent;
+}
+
+input.form-control {
+    background: #ecf2f9;
 }
 
 .btn-info:hover {
