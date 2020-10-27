@@ -165,8 +165,11 @@ h5.title {
 	color: #941e51;
 }
 
+p {
+	font-family: 'Sansita Swashed', cursive, Times, serif;
+}
 li {
-	color: #941e51;
+	font-family: 'Sansita Swashed', cursive, Times, serif;
 }
 .timeline {
     list-style: none;
