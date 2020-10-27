@@ -405,11 +405,6 @@ form {
     font-family:  'Sansita Swashed', cursive, Times, serif;bla
 }
 
-.form-control {
-    background: rgb(232, 240, 254);
-}
-
-
 .btn-info:hover {
     background: #77A1D3;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
@@ -432,10 +427,4 @@ input:focus, input.form-control:focus {
     background: rgb(232, 240, 254);
 }
 
-input.form-control{
-    background: rgb(232, 240, 254);
-}
 
-input: -internal-autofill-selected {
-    background-color: transparent !important;
-}
