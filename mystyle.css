@@ -162,7 +162,7 @@ h5.title {
 
 .h4, h4{
 	font-family: 'Grenze Gotisch', cursive, Times, serif;
-	color: #941e51;
+	color: #941e51 !important;
 }
 
 .timeline {
@@ -307,7 +307,10 @@ h5.title {
 .timeline-body > p,
 .timeline-body > ul {
     margin-bottom: 0;
-    font-family: 'Sansita Swashed', cursive, Times, serif;
+}
+
+.timeline-heading>p {
+	font-family: 'Sansita Swashed', cursive, Times, serif;
 }
 
     .timeline-body > p + p {
