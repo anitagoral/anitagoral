@@ -417,9 +417,6 @@ form {
     color: black;
 }
 
-.btn-primary,
-.btn-primary:active,
-.btn-primary:visited,
-.btn-primary:focus {
+.btn-primary {
     color: #941e51;
 }
