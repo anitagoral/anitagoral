@@ -114,6 +114,11 @@ img.aboutimg1 {
 	width: 100%;
 	}
 
+@media (max-width: 960px) {
+    div.polaroid {
+    margin-left: 10%;
+}
+}
 @media (max-width: 575px) {
 	img.aboutimg1 {
 		display: none;
