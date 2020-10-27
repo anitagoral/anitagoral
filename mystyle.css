@@ -409,9 +409,6 @@ form {
     background: transparent;
 }
 
-input.form-control {
-    background: #ecf2f9;
-}
 
 .btn-info:hover {
     background: #77A1D3;  /* fallback for old browsers */
