@@ -406,7 +406,7 @@ form {
 }
 
 .form-control {
-    background: transparent;
+    background: rgb(232, 240, 254);
 }
 
 
@@ -429,11 +429,11 @@ input:focus, input.form-control:focus {
 
 .form-control:focus {
     border-color: white;
-    background: transparent;
+    background: rgb(232, 240, 254);
 }
 
 input.form-control{
-    background: transparent;
+    background: rgb(232, 240, 254);
 }
 
 input: -internal-autofill-selected {
