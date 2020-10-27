@@ -159,6 +159,15 @@ h5.title {
 }
 
 /*Work History*/
+
+.h4, h4{
+	font-family: 'Grenze Gotisch', cursive, Times, serif;
+	color: #941e51;
+}
+
+li {
+	color: #941e51;
+}
 .timeline {
     list-style: none;
     padding: 20px 0 20px;
