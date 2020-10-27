@@ -418,5 +418,6 @@ form {
 }
 
 .btn-info {
+    opacity: .7;
     color: #941e51;
 }
