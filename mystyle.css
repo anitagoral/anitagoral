@@ -82,7 +82,7 @@ p.lead {
 }
 
 a.btn-primary:hover{
-    color: black;
+    color: black !important;
 }
 
 img.homepageimg{
