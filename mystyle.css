@@ -49,6 +49,10 @@ body {
 
 /* home page */
 
+body.homepage {
+    background: #77A1D3;
+}
+
 .introduction {
 	text-align: center;          
 	top: 50%;     
