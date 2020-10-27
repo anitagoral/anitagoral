@@ -402,4 +402,9 @@ form {
     border-radius: 8px;
     background-color: transparent;
     padding: 25px;
+    font-family:  'Sansita Swashed', cursive, Times, serif;bla
+}
+
+.form-control {
+    opacity: .5;
 }
