@@ -81,6 +81,10 @@ p.lead {
     border-color: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+a.btn-primary:hover{
+    color: black;
+}
+
 img.homepageimg{
 	width: 100%;
 	max-height: 425px;
