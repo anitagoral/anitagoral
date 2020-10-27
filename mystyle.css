@@ -165,8 +165,8 @@ h5.title {
 	color: #941e51 !important;
 }
 
-h1.timeline {
-	font-family: 'Grenze Gotisch', cursive, Times, serif;
+.h1, h1 {
+	font-family: 'Grenze Gotisch', cursive, Times, serif !important;
 	color: #941e51 !important;
 }
 
