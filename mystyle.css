@@ -436,9 +436,7 @@ input.form-control{
     background: transparent;
 }
 
-input: -webkit-autofill,
-input: -webkit-autofill:focus,
-input: -webkit-autofill:active {
-    transition: background-color 5000s;
-    -webkit-text-fill-color: #fff !important;
+.form-control: -webkit-autofill, {
+    -webkit-transition-delay: 99999s;
+}
 }
