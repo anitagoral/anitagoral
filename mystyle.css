@@ -431,3 +431,8 @@ input:focus, input.form-control:focus {
     -webkit-box-shadow: none;
     -webkit-tap-highlight-color: transparent;
 }
+
+.form-control:focus {
+    border-color: transparent;
+    background: transparent;
+}
