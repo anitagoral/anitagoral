@@ -435,3 +435,7 @@ input:focus, input.form-control:focus {
 input.form-control{
     background: transparent;
 }
+
+input: -internal-autofill-selected {
+    background-color: transparent !important;
+}
