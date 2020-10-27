@@ -416,3 +416,10 @@ form {
     border:  #77A1D3;  /* fallback for old browsers */
     color: black;
 }
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    color: #941e51;
+}
