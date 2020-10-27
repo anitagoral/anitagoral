@@ -431,3 +431,7 @@ input:focus, input.form-control:focus {
     border-color: white;
     background: transparent;
 }
+
+input.form-control{
+    background: transparent;
+}
