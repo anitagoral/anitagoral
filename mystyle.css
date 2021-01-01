@@ -84,22 +84,9 @@ a.btn-primary:hover {
     color: black;
 }
 
-img.homepageimg{
-	width: 100%;
-	max-height: 425px;
-	max-width: 315px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	border-radius: 20px;
-	opacity: .85;
+div.homepagebttns {
+    text-align: center;
 }
-
-@media (max-width: 575px) {
-	img.homepageimg {
-		display: none;
-	}
-	}
-
 
 /*about me page */
 
